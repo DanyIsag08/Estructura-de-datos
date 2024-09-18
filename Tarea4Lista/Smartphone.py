@@ -6,7 +6,6 @@ class Smartphone:
         self.ram = ram
         self.camara = camara
 
-    # Métodos getters y setters
     def get_marca(self):
         return self.marca
 
